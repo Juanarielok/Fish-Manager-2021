@@ -1,0 +1,15 @@
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\bin\Debug\facturilla.exe.config
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\bin\Debug\facturilla.exe
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\bin\Debug\facturilla.pdb
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.Properties.Resources.resources
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.csproj.GenerateResource.cache
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.csproj.CoreCompileInputs.cache
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.exe
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.pdb
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.Form1.resources
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.csproj.AssemblyReference.cache
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\bin\Debug\facturilla.exe.manifest
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\bin\Debug\facturilla.application
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.exe.manifest
+C:\Users\JUANA\Desktop\EJEMPLO\facturilla\facturilla\obj\Debug\facturilla.application
